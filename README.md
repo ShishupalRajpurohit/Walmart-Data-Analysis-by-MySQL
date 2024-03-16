@@ -146,6 +146,7 @@ $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenu
 
 For the rest of the code, check the [Solution_SQL_Queries.sql](https://github.com/ShishupalRajpurohit/Walmart-Data-Analysis-by-MySQL/blob/main/SQL%20Data%20Analysis/Solution_SQL%20_Queries.sql) file
 
+#in SQL some datatypes limits increased for better use only 
 ```sql
 #dropping database initially if exists
 #drop database if exists salesdatawalmart; 
