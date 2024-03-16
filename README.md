@@ -58,7 +58,7 @@ The dataset was obtained from the [Walmart commerce data](https://www.kaggle.com
 
 2. **Feature Engineering:** This will help use generate some new columns from existing ones.
 
-> 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
+> 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon, Evening and Night. This will help answer the question on which part of the day most sales are made.
 
 > 2. Add a new column named `day_name` that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 
